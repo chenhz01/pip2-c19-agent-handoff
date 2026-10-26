@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L72",
+    "cluster": "c19 代理间交接",
+    "name": "交接协议完整性",
+    "dir": "L72-handoff-protocol-check",
+    "loc": 43
+  },
+  {
+    "id": "L73",
+    "cluster": "c19 代理间交接",
+    "name": "注意力分诊",
+    "dir": "L73-attention-triage",
+    "loc": 43
+  },
+  {
+    "id": "L74",
+    "cluster": "c19 代理间交接",
+    "name": "并发写冲突闸",
+    "dir": "L74-concurrent-write-gate",
+    "loc": 53
+  }
+]
